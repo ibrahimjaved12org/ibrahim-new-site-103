@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/ibrahim-new-site-103/17ZAOvOfxD8MpdZq8DKr6lZKunxVY3HOI/alpha-2.mp4
+file: /gdrive_uploads/ibrahim-new-site-103/1J5vOSMVNd2GkSTCGoUc3zaAbG64KUDwb/copy-of-beta.mp4
 file_size: 1055736
 file_type: video/mp4
 image_metadata:
@@ -12,8 +12,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: alpha (2).mp4
-uid: 4806507e-b6b7-4821-93a4-1f4d0a963d05
+title: Copy of beta.mp4
+uid: 61fece86-4d47-46ab-b6f2-f7e048bcd1d5
 video_files:
   archive_url: ''
   video_captions_file: ''

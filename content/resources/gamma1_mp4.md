@@ -2,8 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/ibrahim-new-site-103/1y4RuQbbPSKF453gqlSIEU7dhI88FD0G6/alpha-1.mp4
-file_size: 1055736
+file: /gdrive_uploads/ibrahim-new-site-103/1_TT83bnjbuKXG7ZX6VpFh0lbU4Uht6IT/gamma1.mp4
+file_size: 1963919366
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -12,8 +12,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: alpha (1).mp4
-uid: affd3add-1685-4817-862d-3eecbe528b50
+title: gamma1.mp4
+uid: 16df4378-bb9a-48f5-a12f-4f535a0a4e44
 video_files:
   archive_url: ''
   video_captions_file: ''
